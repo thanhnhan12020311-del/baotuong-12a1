@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="vi">
 <head>
 <head>
@@ -68,7 +68,7 @@
     </div>
 
     <footer>
-      © 2026 Báo tường lớp 12A1 – Người thực hiện: Quang Danh
+      © 2026 Báo tường lớp 12A1
     </footer>
 
   </div>
